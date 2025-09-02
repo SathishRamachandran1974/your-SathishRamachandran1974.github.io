@@ -45,11 +45,11 @@ I am eager for the opportunity to contribute my skills and enthusiasm to a dynam
 ## Connect with Me  
 <p>
   <a href="mailto:sathishramachandran1975@gmail.com" target="_blank" rel="noopener">
-    <img src="https://github.com/user-attachments/assets/99ce1398-c9bd-4637-9ddc-6b1a66156da9" alt="Email" width="28">
+    <img src="assets/icons/gmail.png" alt="Email" width="28">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sathisramachandran/" target="_blank" rel="noopener">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="28">
+    <img src="assets/icons/linkedin.png" alt="LinkedIn" width="28">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/SathishRamachandran1974" target="_blank" rel="noopener">
