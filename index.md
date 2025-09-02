@@ -43,9 +43,17 @@ I am eager for the opportunity to contribute my skills and enthusiasm to a dynam
 
 
 ## Connect with Me  
-[![Email](<img width="512" height="512" alt="gmail (1)" src="https://github.com/user-attachments/assets/99ce1398-c9bd-4637-9ddc-6b1a66156da9" />
-)](mailto:sathishramachandran1975@gmail.com)  
-[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/sathisramachandran/)  
-[![GitHub](<img width="512" height="512" alt="github" src="https://github.com/user-attachments/assets/069c3864-07f3-4db6-9694-a6afd3a2b70c" />
-)](https://github.com/SathishRamachandran1974)  
+<p>
+  <a href="mailto:sathishramachandran1975@gmail.com" target="_blank" rel="noopener">
+    <img src="https://github.com/user-attachments/assets/99ce1398-c9bd-4637-9ddc-6b1a66156da9" alt="Email" width="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sathisramachandran/" target="_blank" rel="noopener">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SathishRamachandran1974" target="_blank" rel="noopener">
+    <img src="https://github.com/user-attachments/assets/069c3864-07f3-4db6-9694-a6afd3a2b70c" alt="GitHub" width="28">
+  </a>
+</p>
 
