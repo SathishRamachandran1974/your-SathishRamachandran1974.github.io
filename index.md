@@ -43,7 +43,9 @@ I am eager for the opportunity to contribute my skills and enthusiasm to a dynam
 
 
 ## Connect with Me  
-[![Email](https://img.icons8.com/ios-filled/30/000000/new-post.png)](mailto:sathishramachandran1975@gmail.com)  
+[![Email](<img width="512" height="512" alt="gmail (1)" src="https://github.com/user-attachments/assets/99ce1398-c9bd-4637-9ddc-6b1a66156da9" />
+)](mailto:sathishramachandran1975@gmail.com)  
 [![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/sathisramachandran/)  
-[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/SathishRamachandran1974)  
+[![GitHub](<img width="512" height="512" alt="github" src="https://github.com/user-attachments/assets/069c3864-07f3-4db6-9694-a6afd3a2b70c" />
+)](https://github.com/SathishRamachandran1974)  
 
