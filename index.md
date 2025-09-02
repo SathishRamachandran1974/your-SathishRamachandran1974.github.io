@@ -53,7 +53,8 @@ I am eager for the opportunity to contribute my skills and enthusiasm to a dynam
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/SathishRamachandran1974" target="_blank" rel="noopener">
-    <img src="https://github.com/user-attachments/assets/069c3864-07f3-4db6-9694-a6afd3a2b70c" alt="GitHub" width="28">
+    <img src="assets/icons/github.png" alt="GitHub" width="28">
   </a>
 </p>
+
 
